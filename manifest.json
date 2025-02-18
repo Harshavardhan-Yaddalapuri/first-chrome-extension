@@ -1,7 +1,7 @@
 {
   "name": "My First Chrome Extension",
   "description": "This is my first chrome extension that I'm learning how to build",
-  "version": 1.0,
+  "version": "1.0",
   "manifest_version": 3,
   "actions": {
     "default_popup": "index.html"
