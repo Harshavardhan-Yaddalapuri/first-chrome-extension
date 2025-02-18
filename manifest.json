@@ -3,7 +3,7 @@
   "description": "This is my first chrome extension that I'm learning how to build",
   "version": "1.0",
   "manifest_version": 3,
-  "actions": {
+  "action": {
     "default_popup": "index.html"
   }
 }
